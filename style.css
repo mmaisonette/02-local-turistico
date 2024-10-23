@@ -89,8 +89,8 @@ hr {
   padding-bottom: 64px;
 }
 
-#templo-haedong ul {
-  padding-bottom: 48x;
+#templo-haedong {
+  padding-bottom: 48px;
 }
 
 #templo-beomeo-sa {
@@ -134,4 +134,20 @@ ul {
   font-weight: bold;
   font-size: 16px;
   color: #333333;
+}
+
+.accent-blue {
+  color: #0C51A7;
+}
+
+.accent-purple {
+  color: #591B98;
+}
+
+.accent-pink {
+  color: #E5245E;
+}
+
+.accent-orange {
+  color: #E95E10;
 }
